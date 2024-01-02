@@ -1,5 +1,5 @@
-#Hello New Repo
+# Hello New Repo
 
 Some text......
 
-##How to commit to github
+## How to commit to github
